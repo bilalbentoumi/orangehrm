@@ -37,6 +37,8 @@ class quickLaunchPanelAction extends BaseDashboardAction {
             $this->links = array();
         }
         $this->numRows = 1;
+
+        $this->setTemplate('quickLaunchPanelCustom', 'dashboard');
     }
 
 }
