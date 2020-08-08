@@ -25,6 +25,9 @@ class indexAction extends BaseDashboardAction {
 
     public function execute($request) {
         $this->settings = $this->setAllowedGroups();
+
+        $this->setLayout('adminLayout');
+        $this->setTemplate('indexCustom', 'dashboard');
     }
 
     public function setAllowedGroups() {
