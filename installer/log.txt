@@ -1,0 +1,50 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+Remote Address : ::1
+
+Server Info
+
+Host : localhost
+PHP Version : 7.2.32
+Server : Apache/2.4.43 (Win64) OpenSSL/1.1.1g PHP/7.2.32
+Admin : postmaster@localhost
+
+Document Root : C:/xampp/htdocs
+ROOT_PATH : C:\xampp\htdocs\orangehrm
+
+OrangeHRM Installation Log
+
+Sat, 08 Aug 2020 14:39:25 +0200 DB Creation - Starting
+Sat, 08 Aug 2020 14:39:25 +0200 DB Creation - Done
+Sat, 08 Aug 2020 14:39:25 +0200 DB Creation - No Errors
+Sat, 08 Aug 2020 14:39:28 +0200 Fill Data Phase 1 - Starting
+Sat, 08 Aug 2020 14:39:28 +0200 Fill Data Phase 1 - Connected to the DB Server
+Sat, 08 Aug 2020 14:39:28 +0200 Fill Data Phase 1 - Selected the DB
+Sat, 08 Aug 2020 14:39:28 +0200 Fill Data Phase 1 - Reading DB Script
+Sat, 08 Aug 2020 14:39:28 +0200 Fill Data Phase 1 - Opened DB Script
+Sat, 08 Aug 2020 14:39:28 +0200 Fill Data Phase 1 - Read DB script
+Sat, 08 Aug 2020 14:39:28 +0200 Fill Data Phase 1 - There are 309 Statements in the DB script
+Sat, 08 Aug 2020 14:39:50 +0200 MySQL Procedure Error:No database selected
+Sat, 08 Aug 2020 14:39:50 +0200 Fill Data Phase 1 - Done
+Sat, 08 Aug 2020 14:39:50 +0200 Fill Data Phase 1 - No Errors
+Sat, 08 Aug 2020 14:39:53 +0200 Fill Data Phase 2 - Starting
+Sat, 08 Aug 2020 14:39:53 +0200 Fill Data Phase 2 - Connected to the DB Server
+Sat, 08 Aug 2020 14:39:53 +0200 Fill Data Phase 2 - Selected the DB
+Sat, 08 Aug 2020 14:39:53 +0200 Fill Data Phase 2 - Reading DB Script
+Sat, 08 Aug 2020 14:39:53 +0200 Fill Data Phase 2 - Opened DB Script
+Sat, 08 Aug 2020 14:39:53 +0200 Fill Data Phase 2 - Read DB script
+Sat, 08 Aug 2020 14:39:53 +0200 Fill Data Phase 2 - There are 187 Statements in the DB script
+Sat, 08 Aug 2020 14:39:53 +0200 MySQL Event Error:No database selected
+Sat, 08 Aug 2020 14:39:53 +0200 Fill Data Phase 1 - Connected to the DB Server
+Sat, 08 Aug 2020 14:39:54 +0200 Fill Data Phase 2 - Done
+Sat, 08 Aug 2020 14:39:54 +0200 Fill Data Phase 2 - No Errors
+Sat, 08 Aug 2020 14:39:56 +0200 Create DB user - Starting
+Sat, 08 Aug 2020 14:39:56 +0200 Create DB user - Done
+Sat, 08 Aug 2020 14:39:56 +0200 Create DB user - No Errors
+Sat, 08 Aug 2020 14:39:59 +0200 Create OrangeHRM user - Starting
+Sat, 08 Aug 2020 14:39:59 +0200 Create OrangeHRM user - Done
+Sat, 08 Aug 2020 14:39:59 +0200 Create OrangeHRM user - No Errors
+Sat, 08 Aug 2020 14:40:01 +0200 Write Conf - Starting
+Sat, 08 Aug 2020 14:40:01 +0200 Write Conf - Done
+Sat, 08 Aug 2020 14:40:01 +0200 Write Conf - No Errors
