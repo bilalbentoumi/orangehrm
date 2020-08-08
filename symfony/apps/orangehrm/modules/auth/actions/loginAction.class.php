@@ -11,7 +11,10 @@ class loginAction extends sfAction {
         if (isset($_SESSION['Installation'])) {
             $this->sendInstallationStatus();
         }
-        
+
+        $this->setLayout('loginLayout');
+        $this->setTemplate('loginCustom', 'auth');
+
         $loginForm = new LoginForm();
         $this->message = $this->getUser()->getFlash('message');
         $this->form = $loginForm;
